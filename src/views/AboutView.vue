@@ -124,7 +124,7 @@
                         <li class="bg-clip-text bg-gradient-to-l from-slate-100 to-amber-300 text-transparent">· 同时，是一个B站的视频博主，目前1W+的粉丝</li>
                     </ul>
                     <ul class="mb-3 md:mb-7 fadein-left fadeins-2">
-                        <li class="bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300 text-transparent">· 认为生活的本质是一场历程</li>
+                        <li class="bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300 text-transparent">· 认为生活的本质是一场历程，向往自由，突破现有的教育樊笼</li>
             
                         <li class="bg-clip-text bg-gradient-to-l from-slate-100 to-amber-300 text-transparent">
                             · 如果你有任何关于技术交流或者生活分享的想法
