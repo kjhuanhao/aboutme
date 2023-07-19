@@ -13,7 +13,7 @@
             <p class="text-white pr-4 fade-in-from-left">欢迎来到我的个人主页 <span class="wave">👋🏼</span>
             </p>
             <br>
-            <a href="http://www.laijiahao/about" target="_blank"
+            <a href="http://www.laijiahao.cn/about" 
                 class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-amber-200 border-amber-200 hover:bg-amber-200 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit">
                 关于我</a>
             <a  href="https://space.bilibili.com/67268239" target="_blank"><button
