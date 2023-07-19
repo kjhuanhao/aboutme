@@ -24,7 +24,7 @@
         <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300"
                 height="300" decoding="async" data-nimg="1"
                 class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict"
-                src="https://s2.loli.net/2023/07/20/eBLdFcXfROUIaoy.jpg">
+                src="https://s1.ax1x.com/2023/07/20/pC7h8L4.jpg">
         </div>
     </main>
 </template>

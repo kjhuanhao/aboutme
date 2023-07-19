@@ -114,7 +114,7 @@
                     class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
                 <div class="flex justify-center">
                     <img class="w-9/12 rounded-full mb-3 fadein-up pict"
-                         src="https://s2.loli.net/2023/07/20/eBLdFcXfROUIaoy.jpg" alt="Foto">
+                         src="https://s1.ax1x.com/2023/07/20/pC7h8L4.jpg" alt="Foto">
                 </div>
                 <div class="md:w-7/12">
                     <ul class="mb-3 md:mb-7 fadein-left fadeins-1">
