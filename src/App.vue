@@ -7,7 +7,7 @@
                     <span class="self-center text-lg text-[#ffdb70] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">LaiJiahao·website();</span>
                 </button>
                 <div class="flex md:order-2 fadein-bot">
-                    <a href="https://gitee.com/Z568_568" target="_blank"><img class="w-9 rounded-full"
+                    <a href="https://github.com/kjhuanhao/aboutme" target="_blank"><img class="w-9 rounded-full"
                                                                     src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"
                                                                     alt="github"></a>
                 </div>
