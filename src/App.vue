@@ -8,7 +8,7 @@
                 </button>
                 <div class="flex md:order-2 fadein-bot">
                     <a href="https://github.com/kjhuanhao/aboutme" target="_blank"><img class="w-9 rounded-full"
-                                                                    src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"
+                                                                    src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png"
                                                                     alt="github"></a>
                 </div>
                 <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
@@ -50,8 +50,8 @@
         <nav class="flex justify-around py-4 text-xs">
             <router-link to="/" class="text-gray-300 hover:text-white">主页</router-link>
             <router-link to="/about" class="text-gray-300 hover:text-white">关于</router-link>
-            <router-link to="/portfolio" class="text-gray-300 hover:text-white">作品</router-link>
-            <router-link to="/blog" class="text-gray-300 hover:text-white">博客</router-link>
+            <!-- <router-link to="/portfolio" class="text-gray-300 hover:text-white">作品</router-link>
+            <router-link to="/blog" class="text-gray-300 hover:text-white">博客</router-link> -->
         </nav>
     </footer>
 </template>
